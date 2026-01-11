@@ -7,6 +7,8 @@
 
 A community created collection of custom agents, prompts, and instructions to supercharge your GitHub Copilot experience across different domains, languages, and use cases.
 
+> 📖 **Read this in other languages:** [English](README.md) | [简体中文](docs/README-zh.md)
+
 ## 🚀 What is Awesome GitHub Copilot?
 
 This repository provides a comprehensive toolkit for enhancing GitHub Copilot with specialized:
